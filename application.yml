@@ -1,1 +1,5 @@
 temperature_unit: Kelvin
+
+temperature_ms_name: temperature-ms
+
+humidity_ms_name: humidity-ms
